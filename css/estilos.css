@@ -1,0 +1,45 @@
+
+html{
+    margin: 0;
+    text-decoration: none;
+    
+}
+body{
+    background-color: #a8a8a8;
+}
+
+.nav-item{
+    margin-left: 8px;
+}
+#lg{
+    background-color: aqua;
+    color: #FFFFFF;
+    position: relative;
+    left: 62vw;
+    text-align: center;
+    width: 5vw;
+    border-radius: 8px;
+    
+}
+.cards{
+    position: relative;
+    left: 0.3vw;
+    text-decoration: none;
+    list-style: none;
+    width: 32vw;
+    color: black;
+    margin-left: 8px;
+}
+.bg{
+    margin-top: 7px;
+    background-color: white;
+}
+
+.form-select{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
