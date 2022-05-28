@@ -1,4 +1,6 @@
-var copia = sessionStorage.getItem('/services.php-SelecteEstab');
+
+
+/*var copia = sessionStorage.getItem('/services.php-SelecteEstab');
 
 const t1 = document.getElementById("LinhadeRoupa");
 const t1sub01 = document.getElementById("LinhadeRoupa-sub01");
@@ -40,4 +42,4 @@ t4sub02.classList.add("escondido");
 t4sub03.classList.add("escondido");
 t4sub04.classList.add("escondido");
 t5.classList.add("escondido");
-t6.classList.add("escondido");
+t6.classList.add("escondido");*/
