@@ -6,21 +6,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/sv-finder2.png" class="d-block w-100" alt="...">
+      <img src="images/sv-finder2.png" class="d-block w-100" alt="..." id="carr">
       <div class="carousel-caption d-none d-md-block">
         <h5>O Service Finder oferece a melhor junção de serviços da sua região.</h5>
         <p>Veja abaixo todos os serviços na sua cidade.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/sv-finder-news2.png" class="d-block w-100" alt="...">
+      <img src="images/sv-finder-news2.png" class="d-block w-100" alt="..." id="carr">
       <div class="carousel-caption d-none d-md-block">
         <h5>O Service Finder oferece a melhor junção de serviços da sua região.</h5>
         <p>Veja abaixo todos os serviços na sua cidade.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/sv-finder-projects2.png" class="d-block w-100" alt="...">
+      <img src="images/sv-finder-projects2.png" class="d-block w-100" alt="..." id="carr">
       <div class="carousel-caption d-none d-md-block">
         <h5>O Service Finder oferece a melhor junção de serviços da sua região.</h5>
         <p>Veja abaixo todos os serviços na sua cidade.</p>

@@ -7,7 +7,12 @@ html{
 body{
     background-color: #a8a8a8;
 }
-
+a{
+    text-decoration: none;
+}
+.escondido{
+    display: none;
+}
 .nav-item{
     margin-left: 8px;
 }
@@ -30,9 +35,20 @@ body{
     color: black;
     margin-left: 8px;
 }
+
+.card{
+    display: inline-block;
+    position: relative;
+    left: 5vw;
+    margin-top: 3px;
+}
 .bg{
     margin-top: 7px;
-    background-color: white;
+    background-color: rgb(56, 104, 236);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .form-select{
@@ -43,11 +59,55 @@ body{
     text-align: center;
 }
 
+.vinicio ,.victor{
+    display: inline-block;
+    text-align: center;
+    border: 2px;
+    border-color: #07395f;
+    border-style: solid;
+    color: white;
+}
+
+
+.vinicio img, .victor img{
+    margin-top: 3px;
+    width: 13vw;
+    height: 27vh;
+}
+
+.instaSv{
+    color: white;
+}
+
+
+
+
 @media (max-width: 990px){
     #lg{
         position: relative;
         left: 0;
         width: 10vw;
+    }
+}
+@media (max-width: 965px){
+    .vinicio img, .victor img{ 
+        width: 20vw;
+        height: 27vh;
+    }
+}
+@media (max-width: 600px){
+    .vinicio img, .victor img{ 
+        width: 30vw;
+        height: 30vh;
+    }
+    #car{
+        height: 100px;
+    }
+}
+@media (max-width: 400px){
+    .vinicio img, .victor img{ 
+        width: 40vw;
+        height: 40vh;
     }
 }
 @media (max-width: 600px){
@@ -57,3 +117,4 @@ body{
         width: 15vw;
     }
 }
+

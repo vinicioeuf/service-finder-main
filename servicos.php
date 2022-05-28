@@ -25,6 +25,169 @@
         <option value="Roupas">Roupas</option>
     </select>
     <br>
+    <div class="empresas">
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa">
+            <img class="card-img-top" src="images/empresas/e1.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">MW concept</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeComida">
+            <img class="card-img-top" src="images/empresas/e2.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePresentes">
+            <img class="card-img-top" src="images/empresas/e3.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa-sub01">
+            <img class="card-img-top" src="images/empresas/e4.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePresentes-sub01">
+            <img class="card-img-top" src="images/empresas/e5.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa-sub02">
+            <img class="card-img-top" src="images/empresas/e6.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa-sub03">
+            <img class="card-img-top" src="images/empresas/e7.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeMaquiagem-sub01">
+            <img class="card-img-top" src="images/empresas/e8.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeMaquiagem">
+            <img class="card-img-top" src="images/empresas/e9.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa-sub04">
+            <img class="card-img-top" src="images/empresas/e10.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePresentes-sub02">
+            <img class="card-img-top" src="images/empresas/e11.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeComida-sub01">
+            <img class="card-img-top" src="images/empresas/e12.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeComida-sub02">
+            <img class="card-img-top" src="images/empresas/e13.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeComida-sub03">
+            <img class="card-img-top" src="images/empresas/e14.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePresentes-sub03">
+            <img class="card-img-top" src="images/empresas/e15.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeArquitetura">
+            <img class="card-img-top" src="images/empresas/e16.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePresentes-sub04">
+            <img class="card-img-top" src="images/empresas/e17.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeRoupa-sub05">
+            <img class="card-img-top" src="images/empresas/e18.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadeComida-sub04">
+            <img class="card-img-top" src="images/empresas/e19.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;" id="LinhadePsicóloga">
+            <img class="card-img-top" src="images/empresas/e20.jpeg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">AAA</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="" class="btn btn-primary">Ver perfil</a>
+            </div>
+        </div>
+    </div>
+    <!--
     <div class="row row-cols-1 row-cols-md-3 g-4">
         
         <div class="col">
@@ -81,6 +244,10 @@
             </div>
             </div>
         </div>
-    </div>
+    </div>-->
+    <?php
+        include("trocaSelect.php");
+    ?>
+    <script src="js/verified.js"></script>
 </body>
 </html>

@@ -18,25 +18,26 @@
     <fieldset>
         <div class="mb-3">
         <label for="" class="form-label">Selecione a cidade</label>
-        <select id="" class="form-select" name="city">
+        <select id="" class="form-select" name="city" id="city">
             <option value="Cedro - Jardim" selected>Cedro - Jardim</option>
             <option disabled>Salgueiro</option>
         </select>
         </div>
         <div class="mb-3">
         <label for="" class="form-label">Selecionar serviços</label>
-        <select id="" class="form-select" name="serv">
+        <select id="" class="form-select" name="serv" id="servicos">
             <option value="Arquitetura">Arquitetura</option>
             <option value="Comida">Comida</option>
             <option value="Presentes">Presentes</option>
             <option value="Roupas">Roupas</option>
         </select>
         </div>
-        <button type="submit" class="btn btn-primary">Acessar</button>
+        <button type="submit" class="btn btn-primary" id="azin">Acessar</button>
     </fieldset>
     </form>
     <?php
         include("verificaSelect.php");
     ?>
+    <script src="js/verify.js"></script>
 </body>
 </html>
