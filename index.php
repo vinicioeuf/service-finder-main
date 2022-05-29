@@ -16,10 +16,8 @@
         include_once("templates/menu.php");
         include_once("templates/carrousel.php");
     ?>
-
+    <br>
     
-    <br>
-    <br>
     <div class="card-group">
         <a href="services.php" class="cards">
         <div class="card">
@@ -58,14 +56,6 @@
         </div>
         </a>
     </div>
-
-
-
-
-
-
-
-
 
     <?php
 

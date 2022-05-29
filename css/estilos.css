@@ -16,6 +16,25 @@ a{
 .nav-item{
     margin-left: 8px;
 }
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+.dropdown{
+    display: inline-block;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+}
+.rimô{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
 #lg{
     background-color: aqua;
     color: #FFFFFF;
@@ -73,7 +92,6 @@ a{
 .instaSv{
     color: white;
 }
-
 
 
 
