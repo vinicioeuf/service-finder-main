@@ -13,6 +13,7 @@
 </head>
 <body>
     <?php
+        //include_once("templates/loarder.php");
         include_once("templates/menu.php");
         include_once("templates/carrousel.php");
     ?>

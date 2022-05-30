@@ -16,6 +16,7 @@
     ?>
     <form method="POST" class="form-select">
     <fieldset>
+        <img src="images/logo.png" alt="" class="svlg">
         <div class="mb-3">
         <label for="" class="form-label">Selecione a cidade</label>
         <select id="" class="form-select" name="city" id="city">

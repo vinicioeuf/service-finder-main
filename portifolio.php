@@ -15,6 +15,7 @@
         include_once("templates/menu.php");
     ?>
     <div class="center">
+        <img src="images/logo.png" alt="" class="svlg">
         <div class="dropdown">
             <img src="images/team/vinicio.jpeg" class="rimô" alt="" style="width: 15vw; height: 30vh; border-radius: 10px; display: grid;">
             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">

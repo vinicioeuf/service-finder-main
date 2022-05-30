@@ -16,6 +16,21 @@ a{
 .nav-item{
     margin-left: 8px;
 }
+.svlg{
+    position: relative;
+    left: -1%;
+    bottom: 10vh;
+    width: 15%;
+    height: 10%;
+}
+.form-select{
+    position: relative;
+    bottom: 10vh;
+}
+.empresas{
+    position: relative;
+    bottom: 10vh;
+}
 #lg{
     background-color: aqua;
     color: #FFFFFF;

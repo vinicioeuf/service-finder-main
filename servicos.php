@@ -17,6 +17,7 @@
     <br>
     <br>
     <br>
+    <img src="images/logo.png" alt="" class="svlg">
     <select id="" class="form-select" name="serv">
         <option value="Arquitetura">Arquitetura</option>
         <option value="Comida">Comida</option>
